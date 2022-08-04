@@ -53,7 +53,7 @@ https://basic_crud_laravel_8_gerard_reyes.test/
 * https://basic_crud_laravel_8_gerard_reyes.test/games/ - Home Page
 ![alt text](https://github.com/gerardreyes/basic_crud_laravel_8_gerard_reyes/blob/main/storage/images/home_page.png?raw=true)
 * https://basic_crud_laravel_8_gerard_reyes.test/games/create - Create Page
-![alt text](https://github.com/gerardreyes/basic_crud_laravel_8_gerard_reyes/blob/main/storage/images/edit_page.png?raw=true)
+![alt text](https://github.com/gerardreyes/basic_crud_laravel_8_gerard_reyes/blob/main/storage/images/create_page.png?raw=true)
 
 ### Important Files
 * database/migrations/2022_08_04_011435_create_games_table.php - Migration file to create table.
