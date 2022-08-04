@@ -85,5 +85,5 @@ Feel free to email `gerardreyes112@gmail.com` for any inquiries regarding this p
 * https://dev.to/shanisingh03/generate-dummy-laravel-data-with-model-factories-seeder-gg4
 
 ## License
-* GNU GENERAL PUBLIC LICENSE Version 3
+* GNU General Public License v3.0
 * https://github.com/gerardreyes
